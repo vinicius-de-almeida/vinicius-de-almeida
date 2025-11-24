@@ -41,15 +41,6 @@ With a strong commitment to building responsive and accessible web interfaces, I
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinicius-de-almeida&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-### 🐍 Minha Cobrinha de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-de-almeida/vinicius-de-almeida/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-de-almeida/vinicius-de-almeida/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vinicius-de-almeida/vinicius-de-almeida/output/github-snake.svg" />
-</picture>
-
----
 ---
 
 ### 📬 Connect with me
