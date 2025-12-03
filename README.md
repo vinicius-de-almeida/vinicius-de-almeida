@@ -15,7 +15,7 @@ With a strong commitment to building responsive and accessible web interfaces, I
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="50" alt="tech stack" />
 
 <br>
 <br>
@@ -38,7 +38,7 @@ With a strong commitment to building responsive and accessible web interfaces, I
 
 ### 📊 GitHub Analytics
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinicius-de-almeida&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-de-Almeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Vinicius-de-Almeida)
 <br>
 
 ---
